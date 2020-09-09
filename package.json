@@ -86,7 +86,7 @@
     "vue-loader": "^15.9.0",
     "vue-server-renderer": "^2.6.11",
     "vue-style-loader": "^4.1.2",
-    "vue-template-compiler": "^2.6.11",
+    "vue-template-compiler": "2.6.11",
     "webpack": "4.41.6",
     "webpack-bundle-analyzer": "^3.6.1",
     "webpack-cli": "^3.3.11",
@@ -97,7 +97,6 @@
   "dependencies": {
     "@tinymce/tinymce-vue": "^3.2.2",
     "@types/nprogress": "^0.2.0",
-    "@xcedu/web-share": "^1.0.9",
     "axios": "0.19.2",
     "element-ui": "2.13.0",
     "nprogress": "0.2.0",
